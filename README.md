@@ -1,10 +1,17 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I am Mithun Sivakumar </h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I am <a href="https://github.com/Danushka2/Danushka2/">Mithun Sivakumar! </h1>
+
+<p align="center">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student+with+AI;Front+End+Developer;Web+Developer;Always%20learning%20new%20things&amp;center=true&amp;width=380&amp;height=45">
+</p>
+
 <p align="center" width="150px">Enthusiastic <b>Front-End/Web Developer</b> seeking opportunities to apply my skills in creating dynamic, user-centric web applications and contribute to innovative projects.</p>
 <h2 align="center">Internship @ Unoservice</h2>
 
-<img align="right" width="370" height="290" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+<img align="right" width="370" height="290" align="center" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
-<h4 id="--About-me"><img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="15" align="center"> About Me</h4>
+
+<br>
+<h4 id="--About-me"><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="15px" align="center"> About Me</h4>
                                                  
 - 🌱 I’m currently learning Javascript
 - 🌟 I'm looking to collaborate on Frontend 💻 and 🌐 Web Development projects! Let’s create something amazing together!
@@ -29,6 +36,10 @@
   <img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&amp;logo=github" alt="GitHub">&nbsp;
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg" alt="example">
+</p>
+
 <br><h4 id="--competitive-programming"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25" align="center"> GitHub Analytics ⚙️ &nbsp;</h4>
 
 <p align="center">
@@ -38,3 +49,7 @@
 
 [![Mithun Sivakumar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MITHUN-17&bg_color=000000&color=52d200&line=00adfe&point=52d200&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<div align="center">
+        <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="100">
+        <p>Loading</p>
+</div>
