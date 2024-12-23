@@ -31,11 +31,9 @@
 
 <br><h4 id="--competitive-programming"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25" align="center"> GitHub Analytics ⚙️ &nbsp;</h4>
 
-<p align="left">
-<a href="https://github.com/AVS1508">
-  <img width="47%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MITHUN-17&amp;show_icons=true&amp;theme=algolia&amp;include_all_commits=true&amp;count_private=true">
-  <img width="47%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MITHUN-17&amp;layout=compact&amp;langs_count=8&amp;theme=algolia">
-</a>
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=MITHUN-17&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" width="47%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MITHUN-17&layout=compact&langs_count=8&theme=algolia" width="47%" />
 </p>
 
 [![Mithun Sivakumar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MITHUN-17&bg_color=000000&color=52d200&line=00adfe&point=52d200&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
