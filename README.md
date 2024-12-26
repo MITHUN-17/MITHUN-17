@@ -13,7 +13,7 @@
 <br>
 <h4 id="--About-me"><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="15px" align="center"> About Me</h4>
                                                  
-- 🔭 Here's my [PORTFOLIO](https://mithun-17.github.io/MyPortfolio/)
+- <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHpwcTMwZngyN3ExeDJ4ZzdjdWR1NzQ0c2x2M2Z2aWw2azEzMnVvaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8GqctmCjZjSL8StnCy/giphy.gif" width="18" align="center"> Here's my [PORTFOLIO](https://mithun-17.github.io/MyPortfolio/)
 - 🌱 I’m currently learning Javascript
 - 🌟 I'm looking to collaborate on Frontend 💻 and 🌐 Web Development projects! Let’s create something amazing together!
 - Seeking help with placements in Web Dev and Frontend! Let’s connect!📊🚀
