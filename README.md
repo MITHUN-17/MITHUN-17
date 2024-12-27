@@ -22,7 +22,7 @@
 - <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="18" align="center">  Reach me : [<img src="https://img.shields.io/badge/-Mithun%20Sivakumar%20-0077B5?style=flat&amp;logo=Linkedin&amp;logoColor=white" align="center">](https://www.linkedin.com/in/mithunsivakumar-s17/)
 <a href="mailto:mithunsivakumar17@gmail.com"><img src="https://img.shields.io/badge/-mithunsivakumar17-D14836?style=flat&logo=Gmail&logoColor=white" alt="Email Mithun" align="center"/></a>
 
-<h2>Check my CSS skills here <a href="https://cssbattle.dev/player/mithunsivakumar"><img alt="CSS Battle" src="https://img.shields.io/badge/CSS%20Battle%20-0078d7.svg?logo=visual-studio-code&logoColor=white" width="100px" align="center"></a></h2>
+<h2 align="center">Check my CSS skills here <a href="https://cssbattle.dev/player/mithunsivakumar"><img alt="CSS Battle" src="https://img.shields.io/badge/CSS%20Battle%20-0078d7.svg?logo=visual-studio-code&logoColor=white" width="100px" align="center"></a></h2>
 
 <br><h4 id="-skills"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" width="25" align="center"> Technologies I Work With 🌍⚡</h4>
 <p>
