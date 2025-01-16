@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I am <a href="https://github.com/Danushka2/Danushka2/">Mithun Sivakumar! </h1>
 
 <p align="center">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student+with+AI;Front+End+Developer;Web+Developer;Always%20learning%20new%20things&amp;center=true&amp;width=380&amp;height=45">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student+with+AI;Graphic+Designer;Front+End+Developer;Web+Developer;Always%20learning%20new%20things&amp;center=true&amp;width=380&amp;height=45">
 </p>
 
 <p align="center" width="150px">Enthusiastic <b>Front-End/Web Developer</b> seeking opportunities to apply my skills in creating dynamic, user-centric web applications and contribute to innovative projects.</p>
